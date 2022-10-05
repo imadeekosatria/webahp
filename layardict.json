@@ -1,0 +1,5 @@
+{
+  "kecil": { "kecil": 1, "sedang": 0.2, "besar": 3.0 },
+  "sedang": { "kecil": 5, "sedang": 1, "besar": 5.0 },
+  "besar": { "kecil": 0.3, "sedang": 0.2, "besar": 1 }
+}

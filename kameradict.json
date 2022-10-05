@@ -1,0 +1,5 @@
+{
+  "biasa": { "biasa": 1, "cukup lengkap": 0.33, "sangat lengkap": 3.0 },
+  "cukup lengkap": { "biasa": 3, "cukup lengkap": 1, "sangat lengkap": 5.0 },
+  "sangat lengkap": { "biasa": 0.3, "cukup lengkap": 0.2, "sangat lengkap": 1 }
+}

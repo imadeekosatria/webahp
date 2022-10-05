@@ -1,0 +1,15 @@
+<h1>Hasil</h1>
+<h3>Total Kategori</h3>
+{% for key, value in kategori.items %}
+    <span>{{key}} : {{value}}</span><br>
+{% endfor %}
+
+<h3>Eigen</h3>
+{% for key, value in eigen.items %}
+    <span>{{key}} : {{value}}</span><br>
+{% endfor %}
+
+<h3>Total dan Average</h3>
+{% for key, value in sum_average.items %}
+    <span>{{key}} : {{value}}</span><br>
+{% endfor %}

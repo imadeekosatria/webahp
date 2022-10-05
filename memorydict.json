@@ -1,0 +1,6 @@
+{
+  "rendah": { "rendah": 1, "standar": 9.0, "sedang": 9.0, "besar": 9.0 },
+  "standar": { "rendah": 0.1, "standar": 1, "sedang": 7.0, "besar": 5.0 },
+  "sedang": { "rendah": 0.1, "standar": 0.1, "sedang": 1, "besar": 5.0 },
+  "besar": { "rendah": 0.1, "standar": 0.2, "sedang": 0.2, "besar": 1 }
+}

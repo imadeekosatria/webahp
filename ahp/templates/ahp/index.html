@@ -1,0 +1,15 @@
+{% extends 'template.html' %}
+
+{% block content %}
+<a href="/kategori">Kategori</a>
+<a href="/ram">Ram</a>
+<a href="/kamera">Kamera</a>
+<a href="/baterai">Baterai</a>
+<a href="/harga">Harga</a>
+<a href="/layar">Layar</a>
+<a href="/result">Hasil</a>
+
+{% for p in ponsel %}
+<p>{{p}}  <span>{{p.ram}}</span></p> <br>
+{% endfor %}
+{% endblock content %}
